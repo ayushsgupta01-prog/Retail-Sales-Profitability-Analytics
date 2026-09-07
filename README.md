@@ -150,7 +150,9 @@ The dashboard provides an executive view of:
 - Sub-Category Profitability
 - Interactive Region Filtering
 
-A dashboard screenshot will be included in the repository as part of the portfolio documentation.
+### Dashboard Preview
+
+![Retail Sales & Profitability Dashboard](screenshots/dashboard.png)
 
 ---
 
