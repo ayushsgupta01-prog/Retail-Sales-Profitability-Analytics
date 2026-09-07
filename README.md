@@ -180,6 +180,20 @@ The project includes SQL analysis covering:
 
 ---
 
+## Live Demo
+
+### Interactive Power BI Dashboard
+
+[Open Power BI Dashboard]https://app.powerbi.com/groups/me/apps/45cce172-a5e3-4ca3-8ea6-dc15156265af/reports/42121234-d4e0-4a09-a4b0-a63ea50d001b/d89d5ccd13e35dbb3f25?ctid=51b942db-4e9b-4228-b3f4-777327ee4809&experience=power-bi
+
+> Note: The Power BI App currently requires authorized access because anonymous public access is disabled by the organization tenant.
+
+### Dashboard Preview
+
+![Retail Sales & Profitability Dashboard](screenshots/dashboard.png)
+
+
+
 ## Repository Structure
 
 ```text
